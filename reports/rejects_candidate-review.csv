@@ -1,0 +1,3 @@
+source_system,source_id,source_file,source_row,issues,raw_record_json
+prime,PRI110,source_b.csv,11,"[""duplicate_source_key_in_batch""]","{""source_system"": ""prime"", ""source_id"": ""PRI110"", ""name"": ""Conflict Person One"", ""email"": ""conflict1@example.test"", ""phone"": ""9000000011"", ""address"": ""Hyderabad"", ""age"": ""30"", ""source_file"": ""source_b.csv"", ""source_row"": 11}"
+prime,PRI110,source_b.csv,12,"[""duplicate_source_key_in_batch""]","{""source_system"": ""prime"", ""source_id"": ""PRI110"", ""name"": ""Conflict Person Two"", ""email"": ""conflict2@example.test"", ""phone"": ""9000000012"", ""address"": ""Hyderabad"", ""age"": ""35"", ""source_file"": ""source_b.csv"", ""source_row"": 12}"

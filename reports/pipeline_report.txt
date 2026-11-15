@@ -1,0 +1,12 @@
+CUSTOMER IDENTITY MAPPING PIPELINE
+====================================
+Run ID: f77d5561-1ccf-4d5b-8f96-42c9b0767644
+Status: succeeded
+Input rows: 22
+Accepted rows: 20
+Mapped rows: 17
+Rejected rows: 2
+Conflict rows: 1
+Unresolved rows: 2
+Started at: 2026-11-15T11:34:08Z
+Ended at: 2026-11-15T11:34:08Z

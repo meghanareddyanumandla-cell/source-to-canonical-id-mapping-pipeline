@@ -1,0 +1,32 @@
+
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+
+# Generated databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary verification files
+.verification/
+
+# Generated run-specific reports
+reports/*_????????-????-????-????-????????????.csv
+reports/run_*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+

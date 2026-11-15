@@ -1,0 +1,13 @@
+source_system,source_id,name,email,phone,address,age
+prime,PRI101,meghana reddy,meghana@example.test,9000000001,HYDERABAD,22
+prime,PRI102,Vishnu Vardhan,vishnu@example.test,9000000002,Hyderabad,24
+prime,PRI103,Ravinder Reddy,ravinder@example.test,9000000003,Karimnagar,48
+prime,PRI104,Rama Devi,,9000000004,Karimnagar,45
+prime,PRI105,Akshaya Anumandla,akshaya.alt@example.test,9000000005,Hyderabad,21
+prime,PRI106,Abhijith Nani,abhijith@example.test,9000000006,Hyderabad,23
+prime,PRI107,  Surandha  ,surandha@example.test,9000000007,Karimnagar,23
+prime,PRI108,Prem Chand,,,Hyderabad,25
+prime,PRI109,Srinidhi Sharma,srinidhi@example.test,9000000009,Hyderabad,22
+prime,PRI110,Conflict Person One,conflict1@example.test,9000000011,Hyderabad,30
+prime,PRI110,Conflict Person Two,conflict2@example.test,9000000012,Hyderabad,35
+prime,PRI111,Unknown Person,,,Unknown,

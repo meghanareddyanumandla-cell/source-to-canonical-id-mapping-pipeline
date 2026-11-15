@@ -1,0 +1,11 @@
+source_system,source_id,name,email,phone,address,age
+netflix,NET001,Meghana Reddy,meghana@example.test,9000000001,Hyderabad,22
+netflix,NET002,Vishnu Vardhan,vishnu@example.test,9000000002,Hyderabad,24
+netflix,NET003,Ravinder Reddy,ravinder@example.test,9000000003,Karimnagar,48
+netflix,NET004,Rama Devi,rama@example.test,9000000004,Karimnagar,45
+netflix,NET005,Akshaya Anumandla,akshaya@example.test,9000000005,Hyderabad,21
+netflix,NET006,Abhijith Nani,abhijith@example.test,9000000006,Hyderabad,23
+netflix,NET007,Surandha,surandha@example.test,9000000007,Karimnagar,23
+netflix,NET008,Prem Chand,prem@example.test,9000000008,Hyderabad,25
+netflix,NET009,Srinidhi Sharma,srinidhi@example.test,9000000009,Hyderabad,22
+netflix,NET010,Kiran Kumar,kiran@example.test,9000000010,Hyderabad,27
